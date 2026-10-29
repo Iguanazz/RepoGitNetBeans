@@ -1,2 +1,2 @@
-Mensaje: versión original
+Mensaje: cambio realizado en la rama A
 
